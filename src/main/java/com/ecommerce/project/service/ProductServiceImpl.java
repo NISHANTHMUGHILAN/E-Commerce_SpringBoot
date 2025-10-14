@@ -22,7 +22,7 @@ import java.io.IOException;
 import java.util.List;
 
 @Service
-public class ProductServiceImpl implements ProductService {
+public class  ProductServiceImpl implements ProductService {
 
     @Autowired
     private ProductRepository productRepository;
